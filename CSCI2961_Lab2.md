@@ -15,12 +15,13 @@
 	License: MIT license
 
 7) Developer: Apache/BSD --> Developer gets accredited, some royalties 
-							 and no blame
+							 and no blamer
    
    Company: LGPL --> Can make proprietary works without releasing the 
    					 source to that
    
-   Common Good: GPL --> Everything that comes out of GPL can only be GPL
+   Common Good: GPL --> In general, allows for more open revisions, 
+   						modifications and distribution. 
 
 8) (As a class)
 
