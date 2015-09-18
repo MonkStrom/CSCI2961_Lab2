@@ -1,6 +1,12 @@
 # CSCI2961_Lab2
 
-1)Read article
+1) Freedom 0: Program can be used any the user wants to
+
+   Freedom 1: Source code is be provided. The user may study and change the source code as they wish.
+   
+   Freedom 2: User may redistribute the program.
+   
+   Freedom 3: User may distribute their version of the program. Source code comes along with this.
 
 2) A license allows developers to decide how they want their code to be used, distributed and treated once released. This is important across the whole spectrum of "free". If a developer wants their program to be restrictive in distribution and modification after released, that needs to be stated clearly in their license. Likewise, if they wanted it to be open for redistributions and variations, an appropriate license needs to be chosen for that. 
 
