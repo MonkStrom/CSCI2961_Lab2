@@ -15,7 +15,7 @@
 	License: MIT license
 
 7) Developer: Apache/BSD --> Developer gets accredited, some royalties 
-							 and no blamer
+							 and no blame
    
    Company: LGPL --> Can make proprietary works without releasing the 
    					 source to that
